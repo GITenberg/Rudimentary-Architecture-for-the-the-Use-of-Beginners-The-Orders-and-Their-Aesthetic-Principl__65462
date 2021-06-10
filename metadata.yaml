@@ -1,11 +1,16 @@
 _repo: Rudimentary-Architecture-for-the-the-Use-of-Beginners-The-Orders-and-Their-Aesthetic-Principl__65462
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65462-h/images/cover.jpg
 creator:
   author:
     agent_name: Leeds, W. H.
     gutenberg_agent_id: '53364'
     url: http://www.gutenberg.org/2009/agents/53364
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65462#Rudimentary-Architecture-for-the-the-Use-of-Beginners-The-Orders-and-Their-Aesthetic-Principl_
 gutenberg_issued: '2021-05-28'
 gutenberg_type: Text
 identifiers:
